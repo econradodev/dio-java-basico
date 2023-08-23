@@ -1,2 +1,2 @@
-# dio-java-basico
-Curso básico de Java
+# Dio Java Básico
+Contéudos do curso básico de Java
